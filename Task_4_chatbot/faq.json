@@ -1,0 +1,20 @@
+{
+    "faqs": [
+        {
+            "question": "How can I place an order?",
+            "answer": "You can select a product, add it to your cart and complete checkout."
+        },
+        {
+            "question": "What payment methods are accepted?",
+            "answer": "We support commonly used online payment methods, depending on availability."
+        },
+        {
+            "question": "Can I cancel my order?",
+            "answer": "Order cancellation depends on the order processing status."
+        },
+        {
+            "question": "How can I contact support?",
+            "answer": "You can contact our customer support team through the contact page."
+        }
+    ]
+}
